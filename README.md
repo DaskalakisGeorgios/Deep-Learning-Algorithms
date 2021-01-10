@@ -19,6 +19,7 @@ Confinguring with CMake:
 
 Next, create a (build) directory within the project and run (cmake) to configure the (build). 
 When (cmake) is run, a script is launched (CMakePreBuild.sh) that will install any required dependencies and download DNN models for you.
+
 Omit if working directory is already jetson-inference from above. 
 - cd jetson-inference                   
 - mkdir build
@@ -29,6 +30,7 @@ Downloading Models & Installing PyTorch
 Compiling the Project
 Make sure you are still in the (jetson-inference/build) directory, created in the above step
 Then run (make) followed by (sudo make install) to build the libraries, Python extension bindings, and code samples:
+
 Omit if working directory is already build/ from above.
 - cd jetson-inference/build            
 - make
