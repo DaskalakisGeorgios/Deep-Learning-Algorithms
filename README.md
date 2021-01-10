@@ -11,7 +11,7 @@ Then clone the jetson-inference project:
 - cd jetson-inference
 - git submodule update --init
 
-Create bindings for Python 3.6, install these packages before proceeding:
+Create bindings for Python 3.6. Install these packages before proceeding:
 
 - sudo apt-get install libpython3-dev python3-numpy
 
