@@ -27,3 +27,6 @@ Omit if working directory is already jetson-inference from above.
 - cmake ../
 
 Downloading Models & Installing PyTorch
+Compiling the Project
+Make sure you are still in the jetson-inference/build directory, created in the above step
+Then run - make followed by - sudo make install to build the libraries, Python extension bindings, and code samples:
