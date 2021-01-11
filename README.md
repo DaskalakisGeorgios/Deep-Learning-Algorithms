@@ -1,11 +1,13 @@
-# Build the project on your platform (System Setup)
+## Build the project on your platform (System setup)
 
-### Install git and cmake:
+###Cloning the repo
+
+Install git and cmake:
 
 - sudo apt-get update
 - sudo apt-get install git cmake
 
-Then clone the (jetson-inference) project:
+Then clone the jetson-inference project:
 
 - git clone https://github.com/dusty-nv/jetson-inference
 - cd jetson-inference
