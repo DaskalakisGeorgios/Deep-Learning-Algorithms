@@ -1,6 +1,6 @@
 # Build the project on your platform (System Setup)
 
-## Install git and cmake:
+### Install git and cmake:
 
 - sudo apt-get update
 - sudo apt-get install git cmake
