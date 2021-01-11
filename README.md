@@ -31,7 +31,7 @@ Omit if working directory is already jetson-inference from above.
 - cd build
 - cmake ../
 
-Next step is to download the models and instal pyTorch.
+Next step is to download the models and install pyTorch.
 
 ### Compiling the Project
 
