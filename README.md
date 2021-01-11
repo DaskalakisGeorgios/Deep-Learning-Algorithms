@@ -1,10 +1,10 @@
 ## Build the project on your platform (System setup)
 
-###Cloning the repo
+### Cloning the repo
 
 Install git and cmake:
 
-- sudo apt-get update
+* sudo apt-get update
 - sudo apt-get install git cmake
 
 Then clone the jetson-inference project:
@@ -12,6 +12,8 @@ Then clone the jetson-inference project:
 - git clone https://github.com/dusty-nv/jetson-inference
 - cd jetson-inference
 - git submodule update --init
+
+### Python development packages
 
 Create bindings for Python 3.6. Install these packages before proceeding:
 
