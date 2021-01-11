@@ -21,7 +21,7 @@ Create bindings for Python 3.6. Install these packages before proceeding:
 
 ### Confinguring with CMake
 
-Next, create a (build) directory within the project and run cmak to configure the build. 
+Next, create a (build) directory within the project and run cmake to configure the build. 
 When cmake is run, a script is launched CMakePreBuild.sh that will install any required dependencies and download DNN models for you.
 
 Omit if working directory is already jetson-inference from above.
